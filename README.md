@@ -1,5 +1,5 @@
 # NDKBuildProject
-bdk-build指令配合Android.mk编译so库
+ndk-build指令配合Android.mk编译so库
 
 查看ndk-build相关命令信息：
 
